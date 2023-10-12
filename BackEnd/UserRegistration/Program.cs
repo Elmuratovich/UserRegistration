@@ -26,6 +26,8 @@ builder.Services.Configure<IdentityOptions>(options =>
     options.Password.RequiredLength = 4;
 });
 
+builder.Services.AddCors();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -36,6 +38,11 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors(builder => builder
+.AllowAnyOrigin()
+.AllowAnyHeader()
+.AllowAnyMethod());
 
 app.UseAuthorization();
 

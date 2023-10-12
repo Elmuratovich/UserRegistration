@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JmyVk8L9O4JnGPfYFUO0PuB3Pi3aBBe/NvoESk9zSTTasTT3u/QQ7ZNZXjWVl0DDrL+P1afJH4KZDk1mLSDuyw==",
+  "dgSpecHash": "9FVI/hMZW7nlZCybktAbDxr7JXaIrEAsurOxriRcJRi7CjhauD+uhajlz7lf7EI+P208DFUGEUCNWuYkyEd3eQ==",
   "success": true,
-  "projectFilePath": "D:\\Angular\\Project6\\UserRegistration\\UserRegistration\\BackEnd.csproj",
+  "projectFilePath": "D:\\Angular\\Project6\\BackEnd\\UserRegistration\\BackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\makhm\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\makhm\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
@@ -21,6 +21,7 @@
     "C:\\Users\\makhm\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.1.1\\microsoft.aspnetcore.authentication.core.2.1.1.nupkg.sha512",
     "C:\\Users\\makhm\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.23\\microsoft.aspnetcore.authentication.jwtbearer.6.0.23.nupkg.sha512",
     "C:\\Users\\makhm\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",
+    "C:\\Users\\makhm\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.1.1\\microsoft.aspnetcore.cors.2.1.1.nupkg.sha512",
     "C:\\Users\\makhm\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.23\\microsoft.aspnetcore.cryptography.internal.6.0.23.nupkg.sha512",
     "C:\\Users\\makhm\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.23\\microsoft.aspnetcore.cryptography.keyderivation.6.0.23.nupkg.sha512",
     "C:\\Users\\makhm\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\2.1.1\\microsoft.aspnetcore.dataprotection.2.1.1.nupkg.sha512",

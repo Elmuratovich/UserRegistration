@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Angular\\Project6\\UserRegistration\\UserRegistration\\BackEnd.csproj": {}
+    "D:\\Angular\\Project6\\BackEnd\\UserRegistration\\BackEnd.csproj": {}
   },
   "projects": {
-    "D:\\Angular\\Project6\\UserRegistration\\UserRegistration\\BackEnd.csproj": {
+    "D:\\Angular\\Project6\\BackEnd\\UserRegistration\\BackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Angular\\Project6\\UserRegistration\\UserRegistration\\BackEnd.csproj",
+        "projectUniqueName": "D:\\Angular\\Project6\\BackEnd\\UserRegistration\\BackEnd.csproj",
         "projectName": "BackEnd",
-        "projectPath": "D:\\Angular\\Project6\\UserRegistration\\UserRegistration\\BackEnd.csproj",
+        "projectPath": "D:\\Angular\\Project6\\BackEnd\\UserRegistration\\BackEnd.csproj",
         "packagesPath": "C:\\Users\\makhm\\.nuget\\packages\\",
-        "outputPath": "D:\\Angular\\Project6\\UserRegistration\\UserRegistration\\obj\\",
+        "outputPath": "D:\\Angular\\Project6\\BackEnd\\UserRegistration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -53,6 +53,10 @@
             "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": {
               "target": "Package",
               "version": "[6.0.23, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.1.1, )"
             },
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
