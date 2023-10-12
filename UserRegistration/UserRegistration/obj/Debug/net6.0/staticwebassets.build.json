@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "4keWnuLF6BM8pQ4dgmBZs8pXZNzazPa2uyuieiKZfYU=",
-  "Source": "UserRegistration",
-  "BasePath": "_content/UserRegistration",
+  "Hash": "MouKJmVtT0JdFQmjxk671iCXxkYKeClfuyaUQgvMhI4=",
+  "Source": "BackEnd",
+  "BasePath": "_content/BackEnd",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

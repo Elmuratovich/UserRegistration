@@ -4995,9 +4995,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Angular\\Project6\\UserRegistration\\UserRegistration\\UserRegistration.csproj",
-      "projectName": "UserRegistration",
-      "projectPath": "D:\\Angular\\Project6\\UserRegistration\\UserRegistration\\UserRegistration.csproj",
+      "projectUniqueName": "D:\\Angular\\Project6\\UserRegistration\\UserRegistration\\BackEnd.csproj",
+      "projectName": "BackEnd",
+      "projectPath": "D:\\Angular\\Project6\\UserRegistration\\UserRegistration\\BackEnd.csproj",
       "packagesPath": "C:\\Users\\makhm\\.nuget\\packages\\",
       "outputPath": "D:\\Angular\\Project6\\UserRegistration\\UserRegistration\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wPlEphF2gfr2Ew0X64zShVgMkd92yrgdgUxewkui7/F9sKoPU9NVww2j7p1Wi4De2YzB5TY2CCT1+AQWseg/Hg==",
+  "dgSpecHash": "JmyVk8L9O4JnGPfYFUO0PuB3Pi3aBBe/NvoESk9zSTTasTT3u/QQ7ZNZXjWVl0DDrL+P1afJH4KZDk1mLSDuyw==",
   "success": true,
-  "projectFilePath": "D:\\Angular\\Project6\\UserRegistration\\UserRegistration\\UserRegistration.csproj",
+  "projectFilePath": "D:\\Angular\\Project6\\UserRegistration\\UserRegistration\\BackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\makhm\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\makhm\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
